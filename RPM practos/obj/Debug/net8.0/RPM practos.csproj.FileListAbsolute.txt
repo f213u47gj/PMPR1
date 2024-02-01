@@ -1,0 +1,14 @@
+D:\Progra\RPM practos\bin\Debug\net8.0\RPM practos.exe
+D:\Progra\RPM practos\bin\Debug\net8.0\RPM practos.deps.json
+D:\Progra\RPM practos\bin\Debug\net8.0\RPM practos.runtimeconfig.json
+D:\Progra\RPM practos\bin\Debug\net8.0\RPM practos.dll
+D:\Progra\RPM practos\bin\Debug\net8.0\RPM practos.pdb
+D:\Progra\RPM practos\obj\Debug\net8.0\RPM practos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progra\RPM practos\obj\Debug\net8.0\RPM practos.AssemblyInfoInputs.cache
+D:\Progra\RPM practos\obj\Debug\net8.0\RPM practos.AssemblyInfo.cs
+D:\Progra\RPM practos\obj\Debug\net8.0\RPM practos.csproj.CoreCompileInputs.cache
+D:\Progra\RPM practos\obj\Debug\net8.0\RPM practos.dll
+D:\Progra\RPM practos\obj\Debug\net8.0\refint\RPM practos.dll
+D:\Progra\RPM practos\obj\Debug\net8.0\RPM practos.pdb
+D:\Progra\RPM practos\obj\Debug\net8.0\RPM practos.genruntimeconfig.cache
+D:\Progra\RPM practos\obj\Debug\net8.0\ref\RPM practos.dll
